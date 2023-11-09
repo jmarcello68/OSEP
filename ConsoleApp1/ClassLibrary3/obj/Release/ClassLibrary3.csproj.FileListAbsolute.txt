@@ -1,0 +1,11 @@
+\\192.168.45.5\visualstudio\ConsoleApp1\ClassLibrary3\bin\Release\ClassLibrary3.dll
+\\192.168.45.5\visualstudio\ConsoleApp1\ClassLibrary3\bin\Release\ClassLibrary3.pdb
+\\192.168.45.5\visualstudio\ConsoleApp1\ClassLibrary3\obj\Release\ClassLibrary3.csprojAssemblyReference.cache
+\\192.168.45.5\visualstudio\ConsoleApp1\ClassLibrary3\obj\Release\ClassLibrary3.csproj.CoreCompileInputs.cache
+\\192.168.45.5\visualstudio\ConsoleApp1\ClassLibrary3\obj\Release\ClassLibrary3.dll
+\\192.168.45.5\visualstudio\ConsoleApp1\ClassLibrary3\obj\Release\ClassLibrary3.pdb
+\\192.168.45.233\visualstudio\ConsoleApp1\ClassLibrary3\bin\Release\ClassLibrary3.dll
+\\192.168.45.233\visualstudio\ConsoleApp1\ClassLibrary3\bin\Release\ClassLibrary3.pdb
+\\192.168.45.233\visualstudio\ConsoleApp1\ClassLibrary3\obj\Release\ClassLibrary3.csprojAssemblyReference.cache
+\\192.168.45.233\visualstudio\ConsoleApp1\ClassLibrary3\obj\Release\ClassLibrary3.dll
+\\192.168.45.233\visualstudio\ConsoleApp1\ClassLibrary3\obj\Release\ClassLibrary3.pdb

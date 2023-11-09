@@ -1,0 +1,7 @@
+\\192.168.45.5\visualstudio\ConsoleApp1\Inject\bin\Release\Inject.exe.config
+\\192.168.45.5\visualstudio\ConsoleApp1\Inject\bin\Release\Inject.exe
+\\192.168.45.5\visualstudio\ConsoleApp1\Inject\bin\Release\Inject.pdb
+\\192.168.45.5\visualstudio\ConsoleApp1\Inject\obj\Release\Inject.csprojAssemblyReference.cache
+\\192.168.45.5\visualstudio\ConsoleApp1\Inject\obj\Release\Inject.csproj.CoreCompileInputs.cache
+\\192.168.45.5\visualstudio\ConsoleApp1\Inject\obj\Release\Inject.exe
+\\192.168.45.5\visualstudio\ConsoleApp1\Inject\obj\Release\Inject.pdb
